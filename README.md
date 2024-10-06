@@ -5,6 +5,6 @@ Ambil semua datanya
 
 Untuk aturan isi data di data.txt pada setiap akun
 
-userId=
+userid=
 
 authorization:
